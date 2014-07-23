@@ -1,0 +1,4 @@
+forexfoks
+=========
+
+start mining
